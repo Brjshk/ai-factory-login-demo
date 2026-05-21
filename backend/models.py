@@ -1,0 +1,1 @@
+# This file can be used for defining data models if needed in the future.
