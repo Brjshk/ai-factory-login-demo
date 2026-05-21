@@ -1,0 +1,1 @@
+# This file can be used for authentication-related functions if needed in the future.
